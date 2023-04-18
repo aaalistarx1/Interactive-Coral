@@ -1,5 +1,5 @@
 # Interactive-Coral
 
-#Qian Xiao
-#Interactive Exhibit
-#Physical Computing
+*Qian Xiao
+*Interactive Exhibit
+*Physical Computing
